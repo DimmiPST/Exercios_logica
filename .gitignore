@@ -1,0 +1,20 @@
+# Ambientes Virtuais
+.venv/
+venv/
+ENV/
+
+# Cache do Python (arquivos compilados que poluem o projeto)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configurações de IDEs (VS Code e PyCharm)
+.vscode/
+.idea/
+
+# Variáveis de ambiente e senhas (MUITO IMPORTANTE PARA SEGURANÇA)
+.env
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
